@@ -61,7 +61,7 @@ All content here documents analysis of a purposely vulnerable application for **
 ## 📬 Connect / More
 If you’re also into cybersecurity, feel free to connect:  
 - 💻 LinkdenIn: [@muhammad-ahsanijaz](https://www.linkedin.com/in/muhammad-ahsanijaz/)   
-- GitHub: `https://github.com/your-username` (replace with your profile)  
+- GitHub: ('https://github.com/AhsanIjaz17` ) 
 ----
 Don't forget to **follow** for more content 
 ⭐ If you find this repo helpful, consider giving this repo a **star** to support my work!  
