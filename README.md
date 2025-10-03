@@ -5,7 +5,7 @@
 **Allsafe** is a purposely vulnerable Android application built for learning — not for break-ins. It simulates realistic mobile app flaws using modern libraries and patterns, making it an ideal target for reverse engineering and mobile security testing.
 
 > _This repo contains my practical reverse-engineering walkthroughs and solved challenges for the Allsafe APK. Work shown here is for educational purposes only._  
-> GitHub / Walkthroughs: https://lnkd.in/eSEPsm-D
+> you can download this vulnerable application through this link : https://lnkd.in/eSEPsm-D
 
 ---
 
